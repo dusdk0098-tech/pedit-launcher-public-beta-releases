@@ -1,8 +1,8 @@
-﻿version: 0.1.0-beta.3
+﻿version: 0.1.0-beta.4
 files:
-  - url: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.3/Pedit-Launcher-0.1.0-beta.3-x64.exe
-    sha512: JlZDl4tqo4y+HLl9BU47xdieLJYNoph+qU7t4hQZjvLnRnKXq1+cB99mU4KWe8x3m5aZG62YCHilePNygqMVHA==
-    size: 106268840
-path: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.3/Pedit-Launcher-0.1.0-beta.3-x64.exe
-sha512: JlZDl4tqo4y+HLl9BU47xdieLJYNoph+qU7t4hQZjvLnRnKXq1+cB99mU4KWe8x3m5aZG62YCHilePNygqMVHA==
-releaseDate: '2026-07-20T16:09:49.695Z'
+  - url: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.4/Pedit-Launcher-0.1.0-beta.4-x64.exe
+    sha512: pSI7os+/5N3kRJCaTlFZzCyaj/EMOOvnM3cXLYd/LOn7X0W4XPZezwmbzgcHAnJAxL1JjMXDCoYKgtu6LWODDg==
+    size: 106270392
+path: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.4/Pedit-Launcher-0.1.0-beta.4-x64.exe
+sha512: pSI7os+/5N3kRJCaTlFZzCyaj/EMOOvnM3cXLYd/LOn7X0W4XPZezwmbzgcHAnJAxL1JjMXDCoYKgtu6LWODDg==
+releaseDate: '2026-07-20T18:56:11.973Z'
