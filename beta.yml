@@ -1,8 +1,8 @@
-﻿version: 0.1.0-beta.8
+version: 0.1.0-beta.9
 files:
-  - url: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.8/Pedit-Launcher-0.1.0-beta.8-x64.exe
-    sha512: SI9mHt9l8pAE0AJNL6v/YsP+1E2JfJ5jhfFqosMfGupDPrlZhdXPzoc3hpJMymIo/+wbwr9FzS1n7u8T87BK2w==
-    size: 106277016
-path: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.8/Pedit-Launcher-0.1.0-beta.8-x64.exe
-sha512: SI9mHt9l8pAE0AJNL6v/YsP+1E2JfJ5jhfFqosMfGupDPrlZhdXPzoc3hpJMymIo/+wbwr9FzS1n7u8T87BK2w==
-releaseDate: '2026-07-21T06:21:54.033Z'
+  - url: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.9/Pedit-Launcher-0.1.0-beta.9-x64.exe
+    sha512: najprSVgPRc0QDn+xSlCec3D5lTW7UBMpsyOfR3E3z1kquQPkaTMR4lS2aTSwf5sfm72kyIjHWjMP9QlfL+qyQ==
+    size: 106259400
+path: https://github.com/dusdk0098-tech/pedit-launcher-public-beta-releases/releases/download/v0.1.0-beta.9/Pedit-Launcher-0.1.0-beta.9-x64.exe
+sha512: najprSVgPRc0QDn+xSlCec3D5lTW7UBMpsyOfR3E3z1kquQPkaTMR4lS2aTSwf5sfm72kyIjHWjMP9QlfL+qyQ==
+releaseDate: '2026-09-17T15:59:40.506Z'
